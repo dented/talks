@@ -1,4 +1,4 @@
-# A listing of talks or other things I've done for public consumption
+# List of talks
 
 - [Codeaholics](https://github.com/dented/talks/tree/master/codeaholics)
 - [DentedIO](https://github.com/dented/talks/tree/master/dentedio)
